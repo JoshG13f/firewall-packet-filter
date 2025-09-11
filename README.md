@@ -2,6 +2,8 @@
 
 Python firewall using Scapy to inspect/filter packets; supports rules, logging, packet inspection.
 
+Recorded in a lab environment. Do not scan networks without permission.
+
 ## Quick Start
 ```bash
 pip install -r requirements.txt
